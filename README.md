@@ -3,4 +3,4 @@
  Have Followed various sheets like a2oj, CSES, etc.
 
  General schema for problems is as following:
- <Platform Name> > <Problem Name>
+ Platform Name >Problem Name (with Contest/Sheet Name if applicable)
